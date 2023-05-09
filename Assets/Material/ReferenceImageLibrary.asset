@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5366208412694352867
+  m_GuidHigh: 943903825136507297
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4879285888065760523
+      m_GuidHigh: 3452176056484461998
+    m_SerializedTextureGuid:
+      m_GuidLow: 12476275842524080758
+      m_GuidHigh: 5052892945232784265
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: StartPole
+    m_Texture: {fileID: 2800000, guid: d16f6a76a2c6ad24896badc05c7b1f46, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4867422482209141789
+      m_GuidHigh: 121174998127990954
+    m_SerializedTextureGuid:
+      m_GuidLow: 4810990549034900417
+      m_GuidHigh: 13269359370446593371
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: EndPole
+    m_Texture: {fileID: 2800000, guid: 24fc9bc1126a42c45b5d78180b3c26b8, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4714236199434458176
+      m_GuidHigh: 9949959291651812737
+    m_SerializedTextureGuid:
+      m_GuidLow: 10125285922103049397
+      m_GuidHigh: 12656899737959440905
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: TeleportA
+    m_Texture: {fileID: 2800000, guid: 6c373cb53de68c8409a2cea64057a6af, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5590830829824157875
+      m_GuidHigh: 14472862048771628202
+    m_SerializedTextureGuid:
+      m_GuidLow: 2500722170143183779
+      m_GuidHigh: 17327998247686370585
+    m_Size: {x: 0.23, y: 0.30823}
+    m_SpecifySize: 1
+    m_Name: TeleportB
+    m_Texture: {fileID: 2800000, guid: 795413a3599022b419f5ef3d996a79f0, type: 3}
